@@ -1,0 +1,22 @@
+{
+  "name": "week-10-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boddiegoat7/WEEK-10-ASSIGNMENT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boddiegoat7/WEEK-10-ASSIGNMENT/issues"
+  },
+  "homepage": "https://github.com/boddiegoat7/WEEK-10-ASSIGNMENT#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
