@@ -41,7 +41,11 @@
 
 ## TEST
       
-- To run the project just CLONE the code from the following github link and opening in vs code. Using the node command to start the app.
+- To run the project just CLONE the code from the following github link:
+
+https://github.com/boddiegoat7/Object-Oriented-Programming-Challenge-Team-Profile-Generator
+
+and opening in vs code. Use the node command to start the app.
 
 ## QUESTIONS
 
