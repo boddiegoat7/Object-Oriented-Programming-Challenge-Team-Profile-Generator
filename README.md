@@ -57,5 +57,7 @@ or
 
 - Email: [victorboddie21@gmail.com](mailto:victorboddie21@gmail.com})
         
+[mod 10 assignment](https://user-images.githubusercontent.com/107088058/198378587-f0a49aa3-d191-48e4-b44b-5b1fbb9b4524.webm)
+
 
 
