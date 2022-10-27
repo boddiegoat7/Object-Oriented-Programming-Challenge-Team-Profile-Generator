@@ -1,4 +1,4 @@
-// node modules
+
 const inquirer = require("inquirer");
 const fs = require("fs");
 const generateTeam = require("./src/generateHtml.js");
@@ -7,10 +7,10 @@ const Manager = require("./lib/Manager");
 const Engineer = require("./lib/Engineer");
 const Intern = require("./lib/Intern");
 
-//Array for answer to questions
+
 const newStaffData = [];
 
-// Array object questions
+
 const questions = async () => {
   const answer = await inquirer.prompt([
     {
@@ -36,7 +36,7 @@ const questions = async () => {
     },
   ]);
 
-  //console.log(answers);
+
   if (answer.role === "Manager") {
     const officeNumber = await inquirer.prompt([
       {
@@ -90,7 +90,7 @@ const questions = async () => {
       new Intern(answer.name, answer.id, answer.email, school.school)
     );
   }
-}; //end of questions
+}; 
 
 async function promptQuestions() {
   await questions();

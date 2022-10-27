@@ -4,7 +4,7 @@ const Employee = require("../lib/Employee");
 const generateTeam = Position => {
 
 
-    // create the manager html
+    
     const generateManager = manager => {
         
         return `
@@ -80,7 +80,7 @@ const generateTeam = Position => {
     
     };
 
-        //team array that is created in the html for each employee
+       //html for each employee 
     const html = [];
 
     html.push(Position
